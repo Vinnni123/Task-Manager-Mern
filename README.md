@@ -28,4 +28,7 @@
 ## BACKEND : NODEJS, EXPRESSJS
 ## DATABSE : MONGODB
 
+## video link : https://drive.google.com/file/d/1vAmxwIUyE3Jtz9rcgqMB4PTZbztBLkSG/view?usp=drivesdk
+
+
 
